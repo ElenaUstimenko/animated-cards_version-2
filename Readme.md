@@ -5,9 +5,12 @@
 # **animated cards_version 2**  
 
 
-Вариант анимации карточек с помощью HTML и CSS.
+Вариант анимации карточек с помощью HTML и CSS. + Фоновое изображение для надписи.
 
 Изучаю, тренируюсь...
+
+
+P.S.: Нажми на картинку.
 
 ---
 **Стек технологий**
@@ -19,9 +22,12 @@
 # **animated cards_version 2** 
 
 
-Option of animating cards with HTML and CSS.
+Option of animating cards with HTML and CSS. + Background image for text.
 
 Study, train...
+
+
+P.S.: Click on the picture.
 
 ---
 **Technology stack**
