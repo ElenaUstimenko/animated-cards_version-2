@@ -1,4 +1,4 @@
-[![Обложка к видео «animated cards_version 1»](./images/animated%20cards_version%201.jpg)](https://youtu.be/GHGCutkeY24)
+[![Обложка к видео «animated cards_version 1»](./images/animated%20cards_version%202.jpg)](https://youtu.be/l9LO1XIkIZc)
 
 
 
